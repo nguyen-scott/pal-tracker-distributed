@@ -1,5 +1,6 @@
 package io.pivotal.pal.tracker.timesheets;
 
+import io.pivotal.pal.tracker.backlog.ProjectClient;
 import io.pivotal.pal.tracker.timesheets.data.TimeEntryDataGateway;
 import io.pivotal.pal.tracker.timesheets.data.TimeEntryFields;
 import io.pivotal.pal.tracker.timesheets.data.TimeEntryRecord;
