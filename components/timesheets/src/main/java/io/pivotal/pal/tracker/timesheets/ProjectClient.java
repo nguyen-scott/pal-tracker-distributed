@@ -1,7 +1,6 @@
-package io.pivotal.pal.tracker.backlog;
+package io.pivotal.pal.tracker.timesheets;
 
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
-import io.pivotal.pal.tracker.timesheets.ProjectInfo;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.client.RestOperations;
